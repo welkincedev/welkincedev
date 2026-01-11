@@ -3,15 +3,13 @@
 
 <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Flutter & the world**
 
-- 💼 Working as Communications Coordinator at [E.F.I](https://indiaenvironment.org)
-
-- 🤹🏽 Also Have a Skill On **Designing**
+- 🤹🏽 Also Have a Passion On **Designing**
 
 - 📝 Read my blogs on [Welks View](https://medium.com/@clairwelk19)
 
-- 📫 How to reach me **welkflutter@gmail.com**
+- 📫 How to reach me **welkince.dev@gmail.com**
 
 - ⚡ Fun fact **Internet users blink less than usual.**
 
