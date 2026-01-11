@@ -87,8 +87,9 @@ void main() {
   <a href="https://discord.com/users/am_clair#4741" target="_blank">
     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" height="35" width="35" />
   </a>
-<a href="https://medium.com/@clairwelk19" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-%23ffffff?style=for-the-badge&logo=medium&logoColor=black" alt="Medium" width="90" height="35"/>
+  <a href="https://medium.com/@welkthedev" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="35" height="35"/>
+  </a>
 </a>
 
 </p>
