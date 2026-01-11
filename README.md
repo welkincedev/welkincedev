@@ -89,7 +89,7 @@ void main() {
     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" height="35" width="35" />
   </a>
   <a href="https://medium.com/@clairwelk19" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Medium_Monogram_Logo.png" alt="Medium" height="35" width="35" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="Medium" width="35" height="35"/>
   </a>
 </p>
 
