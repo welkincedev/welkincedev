@@ -24,8 +24,6 @@ void main() {
   );
 
   me.buildPortfolio();
-  me.shareKnowledge(blog: "https://medium.com/@clairwelk19");
-  me.connect(email: "welkince.dev@gmail.com");
 }
 
 ```
