@@ -59,14 +59,14 @@ void main() {
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_premiere/adobe_premiere-icon.svg" alt="Premiere Pro" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" alt="Premiere Pro" width="40" height="40"/>
   </a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/DaVinci_Resolve_logo.svg" alt="DaVinci Resolve" width="40" height="40"/>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" alt="DaVinci Resolve" width="40" height="40"/>
   </a>
-  <a href="https://www.aipromptgenerator.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Artificial_Intelligence_icon.svg" alt="AI Prompt Generator" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
  
