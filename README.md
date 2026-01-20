@@ -20,7 +20,7 @@ void main() {
       "Vibe Coding",
       "Travel Exploration"
     ],
-    funFact: "I make apps that blink less than the average user 😎"
+    funFact: "Average Screen users blink less than the average user 😎"
   );
 
   me.buildPortfolio();
