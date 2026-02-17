@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working on **Flutter**
 
-- 🌱 I'm currently learning **Also Flutter and some backend**
+- 🌱 I'm currently learning **Also Flutter and UI&UX**
 
 - 👯 I'm looking to collaborate on **some intresting apps**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **welkince.dev@gmail.com**
 
-- ⚡ Fun fact **Not Fun but do you know Ukulele**
+- ⚡ Fun fact **Not Fun but do you know Ukulele?**
 
 - 👨‍💻 All of my projects are available at **[Welks Web](https://welkincedev.github.io/welkweb/)**
 
