@@ -9,7 +9,7 @@
   <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" width="120" height="80" alt="Flutter vibes" />
 </p>
 
-- 🔭 I'm currently working on **Flutter**
+- 🔭 I'm currently working as **Flutter** Intern
 
 - 🌱 I'm currently learning **Also Flutter and UI&UX**
 
